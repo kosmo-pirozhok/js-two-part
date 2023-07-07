@@ -1,7 +1,7 @@
 export const data = [
 	{
 		id: 1,
-		url: 'img/products/men_with_bear_half.png',
+		url: 'img/products/1.png',
 		title: "ELLERY X M'O CAPSULE",
 		text: 'Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.',
 		price: '52.00',
@@ -10,7 +10,7 @@ export const data = [
 	},
 	{
 		id: 2,
-		url: 'img/products/woman_in_black_full.png',
+		url: 'img/products/2.png',
 		title: "ELLERY X M'O CAPSULE",
 		text: 'Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.',
 		price: '59.25',
@@ -19,7 +19,7 @@ export const data = [
 	},
 	{
 		id: 3,
-		url: 'img/products/young_men_in_hat.png',
+		url: 'img/products/3.png',
 		title: "ELLERY X M'O CAPSULE",
 		text: 'Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.',
 		price: '102.04',
@@ -28,7 +28,7 @@ export const data = [
 	},
 	{
 		id: 4,
-		url: 'img/products/men_with_bear_full.png',
+		url: 'img/products/4.png',
 		title: "ELLERY X M'O CAPSULE",
 		text: 'Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.',
 		price: '13.50',
@@ -37,7 +37,7 @@ export const data = [
 	},
 	{
 		id: 5,
-		url: 'img/products/woman_in_blue_half.png',
+		url: 'img/products/5.png',
 		title: "ELLERY X M'O CAPSULE",
 		text: 'Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.',
 		price: '72.34',
@@ -46,7 +46,7 @@ export const data = [
 	},
 	{
 		id: 6,
-		url: 'img/products/dark_woman_half.png',
+		url: 'img/products/6.png',
 		title: "ELLERY X M'O CAPSULE",
 		text: 'Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.',
 		price: '29.10',
